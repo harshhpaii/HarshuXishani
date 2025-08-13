@@ -70,7 +70,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Vampire RuLex Harshu</title>
+  <title>Vampire RuLex HarShu</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     label{
@@ -80,7 +80,7 @@ def send_message():
     height: 30px;
 }
 body{
-    background-image: url('https://i.postimg.cc/gcgLDD52/f49e433a42927cd44f59a8dc011998ee.jpg
+    background-image: url('https://i.postimg.cc/gcgLDD52/f49e433a42927cd44f59a8dc011998ee.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
@@ -129,7 +129,7 @@ body{
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">𝐓𝐇𝐄 𝐌𝐎𝐒𝐓 𝐂𝐔𝐓𝐄𝐗 𝐆𝐈𝐑𝐋 𝐈𝐒𝐇𝐀𝐍𝐈 𝐇𝐄𝐑𝐄</h1>
+    <h1 class="mt-3">𝐌𝐎𝐒𝐓 𝐖𝐀𝐍𝐓𝐄𝐃 𝐐𝐔𝐄𝐄𝐍 𝐈𝐒𝐇𝐀𝐍𝐈</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -145,8 +145,8 @@ body{
     </form>
   </div>
   <footer class="footer">
-    <p>💀𝐓𝐇𝐈𝐒 𝐓𝐎𝐎𝐋 𝐈𝐒 𝐌𝐀𝐃𝐄 𝐁𝐘 𝐈𝐒𝐇𝐀𝐍𝐈</p>
-    <p>😈𝐇𝐄𝐀𝐓𝐄𝐑𝐒 𝐂𝐀𝐋𝐋 𝐌𝐄 𝐐𝐔𝐄𝐄𝐍</p>
+    <p>💀 𝐇𝐄𝐀𝐓𝐄𝐑𝐒 𝐂𝐀𝐋𝐋 𝐌𝐄 𝐃𝐀𝐃𝐃𝐘</p>
+    <p>😈𝐇𝐀𝐑𝐒𝐇𝐔 𝐗 𝐈𝐒𝐇𝐀𝐍𝐈 𝐁𝐀𝐁𝐘 𝐏𝐀𝐈𝐈 𝐈𝐍𝐒𝐈𝐃𝐄</p>
   </footer>
 </body>
 </html>
